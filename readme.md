@@ -10,7 +10,7 @@ https://publicapi.dankland.club
                          ├ /streamers
                          
                          ├ /rules
-                                  
+                         
                          ├ /events
-                                  
+                         
                          └ /minigames
