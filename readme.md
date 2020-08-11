@@ -1,15 +1,15 @@
 # DankLand Website API
-```https://publicapi.dankland.club```
-                         ├ ```/tariffs```
+https://publicapi.dankland.club
+                         ├ /tariffs
                                   
-                         ├ ```/boosty```
+                         ├ /boosty
                                   
-                         ├ ```/donationalerts```
+                         ├ /donationalerts
                                   
-                         ├ ```/streamers```
+                         ├ /streamers
                          
-                         ├ ```/rules```
+                         ├ /rules
                                   
-                         ├ ```/events```
+                         ├ /events
                                   
-                         └  ```/minigames```
+                         └ /minigames
