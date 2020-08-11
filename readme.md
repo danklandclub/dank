@@ -1,14 +1,14 @@
 # DankLand Website API
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/tariffs```
+```https://publicapi.dankland.club/tariffs```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/boosty```
+```https://publicapi.dankland.club/boosty```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/donationalerts```
+```https://publicapi.dankland.club/donationalerts```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/streamers```
+```https://publicapi.dankland.club/streamers```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/rules```
+```https://publicapi.dankland.club/rules```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/events```
+```https://publicapi.dankland.club/events```
 
-```https://publicapi.22ae56a9-263a-49a0-8009-93e1de4dfa8e.xyz/dankland/minigames```
+```https://publicapi.dankland.club/minigames```
