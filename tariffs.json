@@ -1,3 +1,37 @@
-{
-
-}
+[
+  {
+    "forFree":10,
+    "forPaid":60,
+    "description":"Территория 50x50",
+    "link_paid":"https://boosty.to/frovolo/purchase/78947",
+    "link_promo":"https://boosty.to/frovolo/purchase/17459"
+  },
+  {
+    "forFree":25,
+    "forPaid":75,
+    "description":"Баджик ❤ + территория 100x100",
+    "link_paid":"https://boosty.to/frovolo/purchase/36736",
+    "link_promo":"https://boosty.to/frovolo/purchase/36596"
+  },
+  {
+    "forFree":40,
+    "forPaid":90,
+    "description":"Территория 250x250",
+    "link_paid":"https://boosty.to/frovolo/purchase/78958",
+    "link_promo":"https://boosty.to/frovolo/purchase/78957"
+  },
+  {
+    "forFree":75,
+    "forPaid":125,
+    "description":"Выбор цвета баджика + свой мир",
+    "link_paid":"https://boosty.to/frovolo/purchase/37145",
+    "link_promo":"https://boosty.to/frovolo/purchase/36736"
+  },
+  {
+    "forFree":100,
+    "forPaid":150,
+    "description":"Отключение рекламы",
+    "link_paid":"https://boosty.to/frovolo/purchase/34627",
+    "link_promo":"https://boosty.to/frovolo/purchase/34626"
+  }
+]

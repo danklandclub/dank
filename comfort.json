@@ -1,0 +1,26 @@
+[
+  {
+    "type":"zone",
+    "size":"50x50",
+    "cost":60,
+    "promo":10
+  },
+  {
+    "type":"zone",
+    "size":"100x100",
+    "cost":75,
+    "promo":25
+  },
+  {
+    "type":"zone",
+    "size":"250x250",
+    "cost":90,
+    "promo":40
+  },
+  {
+    "type":"world",
+    "size":"infinite",
+    "cost":125,
+    "promo":75
+  }
+]
