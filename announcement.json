@@ -1,7 +1,7 @@
 {
   "type": "warn",
-  "icon-img": "crossed"
-  "title": "PVP турнир на сервере!"
+  "icon-img": "crossed",
+  "title": "PVP турнир на сервере!",
   "description": "Успей принять участие в PVP турнире на DankLand!",
   "router-link": "/events/tournament"
 }
