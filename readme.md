@@ -1,5 +1,6 @@
 # DankLand Website API
 Website using jsdelivr cdn
+
 ```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/tariffs.json```
 
 ```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/donate.json```
