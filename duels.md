@@ -1,6 +1,6 @@
 ### Правила турнира и как участвовать в нём можно найти **[тут](https://github.com/danklandclub/ws-api/blob/master/tournament.md)**
 ***
-Для дуэлей мы используем **[этот плагин](https://www.spigotmc.org/resources/duels.20171)**
+### Для дуэлей мы используем **[этот плагин](https://www.spigotmc.org/resources/duels.20171)**
 ***
 ### Гайд по использованию дуэлей:
 Чтобы попасть в лобби дуэлей, вам нужно прописать `/warp duels`
