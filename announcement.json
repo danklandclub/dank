@@ -1,5 +1,6 @@
 {
   "type": "warn",
+  "show": true,
   "icon-img": "crossed",
   "title": "PVP турнир на сервере!",
   "description": "Успей принять участие в PVP турнире на DankLand!",
