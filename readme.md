@@ -1,14 +1,15 @@
 # DankLand Website API
-```https://publicapi.dankland.club/tariffs```
+Website using jsdelivr cdn
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/tariffs.json```
 
-```https://publicapi.dankland.club/donate/boosty```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/donate.json```
 
-```https://publicapi.dankland.club/donate/donationalerts```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/streamers.json```
 
-```https://publicapi.dankland.club/streamers```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/rules.json```
 
-```https://publicapi.dankland.club/rules```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/events.json```
 
-```https://publicapi.dankland.club/events```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/duels.md```
 
-```https://publicapi.dankland.club/minigames```
+```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/tournament.md```
