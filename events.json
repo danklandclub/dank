@@ -13,6 +13,6 @@
     "desc": "PVP турнир (дуэли) с помощью нового плагина",
     "date": "~24 августа 2020",
     "members": null,
-    "router-link": "/events/duels"
+    "router-link": "/events/tournament"
   }
 ]
