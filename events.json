@@ -4,6 +4,15 @@
     "event": "PVP турнир",
     "desc": "PVP турнир проходил на Арене DankLand, прошёл по инициативе Рекфорда, он же и победил",
     "date": "12-13 апреля 2020",
-    "members": 12
+    "members": 12,
+    "router-link": null
+  },
+  {
+    "emoji": "crossed",
+    "event": "PVP турнир",
+    "desc": "PVP турнир (дуэли) с помощью нового плагина",
+    "date": "~24 августа 2020",
+    "members": null,
+    "router-link": "/events/duels"
   }
 ]
