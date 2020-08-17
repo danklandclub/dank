@@ -1,4 +1,4 @@
-### Правила турнира и как участвовать в нём можно найти **[тут](https://github.com/danklandclub/ws-api/blob/master/tournament.md)**
+### Правила турнира и как участвовать в нём можно найти **[тут](https://dankland.club/events/tournament)**
 ***
 ### Для дуэлей мы используем **[этот плагин](https://www.spigotmc.org/resources/duels.20171)**
 ***
