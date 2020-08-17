@@ -1,0 +1,25 @@
+[
+  {
+    "username":"PWGood",
+    "head":"_PWGood_",
+    "isStreamer":true,
+    "urlStream":"https://twitch.tv/pwgood",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"",
+    "amount":""
+  },
+  {"username":"Rekford",
+    "head":"Rekford",
+    "isStreamer":true,
+    "urlStream":"https://twitch.tv/rekford",
+    "isWinnerArena":true,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"donationalerts",
+    "amount":200
+  }
+]
