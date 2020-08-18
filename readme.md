@@ -1,16 +1,16 @@
 # DankLand Website API
-Website using jsdelivr cdn
+Website using rawgit.org (Cloudflare CDN)
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/tariffs.json```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/tariffs.json```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/donate.json```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/donate.json```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/streamers.json```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/streamers.json```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/rules.json```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/rules.json```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/events.json```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/events.json```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/duels.md```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/duels.md```
 
-```https://cdn.jsdelivr.net/gh/danklandclub/ws-api/tournament.md```
+```https://ghcdn.rawgit.org/danklandclub/ws-api/master/tournament.md```
