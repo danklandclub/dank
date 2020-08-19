@@ -156,6 +156,18 @@
     "amount":50
   },
   {
+    "username":"xenslly",
+    "head":"xenslly",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":50
+  },
+  {
     "username":"GreDDy38r",
     "head":"GreDDy38r",
     "isStreamer":false,
