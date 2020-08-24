@@ -27,7 +27,7 @@
     "head":"Rekford",
     "isStreamer":true,
     "urlStream":"https://twitch.tv/rekford",
-    "isWinnerArena":true,
+    "isWinnerArena":false,
     "isHeart":false,
     "heartColor":"",
     "doubleSupport":false,
