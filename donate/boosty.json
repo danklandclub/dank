@@ -84,18 +84,6 @@
     "amount":50
   },
   {
-    "username":"peepoPiratik",
-    "head":"PeepoPiratik",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":false,
-    "heartColor":"",
-    "doubleSupport":false,
-    "platform":"boosty",
-    "amount":50
-  },
-  {
     "username":"Kristophr",
     "head":"Kristophr",
     "isStreamer":false,
