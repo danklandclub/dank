@@ -69,6 +69,18 @@
     "amount":100
   },
   {
+    "username":"DuckDomestos",
+    "head":"DuckDomestos_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"green",
+    "doubleSupport":false,
+    "platform":"donationalerts",
+    "amount":100
+  },
+  {
     "username":"Ananasik2019",
     "head":"Hinity",
     "isStreamer":false,
@@ -90,16 +102,4 @@
     "platform":"donationalerts",
     "amount":50
   },
-  {
-    "username":"DuckDomestos ",
-    "head":"DuckDomestos_",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":false,
-    "heartColor":"",
-    "doubleSupport":false,
-    "platform":"donationalerts",
-    "amount":50
-  }
 ]
