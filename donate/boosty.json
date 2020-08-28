@@ -156,6 +156,18 @@
     "amount":50
   },
   {
+    "username":"Boombox",
+    "head":"Boombox_x",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":50
+  },
+  {
     "username":"GreDDy38r",
     "head":"GreDDy38r",
     "isStreamer":false,
