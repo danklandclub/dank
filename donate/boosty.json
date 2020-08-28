@@ -72,6 +72,18 @@
     "amount":75
   },
   {
+    "username":"dimver4ik",
+    "head":"DIMVER_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
     "username":"daskinj",
     "head":"daskinj",
     "isStreamer":false,
