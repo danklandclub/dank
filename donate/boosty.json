@@ -84,6 +84,18 @@
     "amount":75
   },
   {
+    "username":"maxutka",
+    "head":"maxutka",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
     "username":"daskinj",
     "head":"daskinj",
     "isStreamer":false,
