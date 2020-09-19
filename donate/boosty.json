@@ -96,18 +96,6 @@
     "amount":75
   },
   {
-    "username":"daskinj",
-    "head":"daskinj",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":true,
-    "heartColor":"yellow",
-    "doubleSupport":false,
-    "platform":"boosty",
-    "amount":50
-  },
-  {
     "username":"MR_Rone",
     "head":"MR_Rone",
     "isStreamer":false,
@@ -204,6 +192,18 @@
     "amount":50
   },
   {
+    "username":"Catinuniform",
+    "head":"Catinuniform",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":50
+  },
+  {
     "username":"GreDDy38r",
     "head":"GreDDy38r",
     "isStreamer":false,
@@ -214,5 +214,5 @@
     "doubleSupport":false,
     "platform":"boosty",
     "amount":40
-  }
+  },
 ]
