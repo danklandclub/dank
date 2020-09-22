@@ -12,18 +12,6 @@
     "amount":150
   },
   {
-    "username":"migohst",
-    "head":"migohst",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":false,
-    "heartColor":"",
-    "doubleSupport":false,
-    "platform":"boosty",
-    "amount":150
-  },
-  {
     "username":"vASSimall",
     "head":"vassimall",
     "isStreamer":false,
@@ -206,6 +194,30 @@
   {
     "username":"Catinuniform",
     "head":"Catinuniform",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":50
+  },
+  {
+    "username":"migohst",
+    "head":"migohst",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":false,
+    "heartColor":"",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":50
+  },
+  {
+    "username":"ikefirchick",
+    "head":"iKefir",
     "isStreamer":false,
     "urlStream":"",
     "isWinnerArena":false,
