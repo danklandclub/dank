@@ -48,6 +48,18 @@
     "amount":125
   },
   {
+    "username":"IKefir",
+    "head":"IKefir",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"darkaqua",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":125
+  },
+  {
     "username":"trefis",
     "head":"trefis",
     "isStreamer":false,
