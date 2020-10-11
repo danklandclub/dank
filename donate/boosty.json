@@ -17,8 +17,8 @@
     "isStreamer":false,
     "urlStream":"",
     "isWinnerArena":false,
-    "isHeart":false,
-    "heartColor":"",
+    "isHeart":true,
+    "heartColor":"darkblue",
     "doubleSupport":false,
     "platform":"boosty",
     "amount":150

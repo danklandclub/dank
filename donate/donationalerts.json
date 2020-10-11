@@ -89,11 +89,13 @@
     "isHeart":false,
     "heartColor":"",
     "doubleSupport":false,
-    "platform":"donationalerts","amount":75
+    "platform":"donationalerts",
+    "amount":75
   },
   {
     "username":"IceHole",
-    "head":"IceHole_","isStreamer":false,
+    "head":"IceHole_",
+    "isStreamer":false,
     "urlStream":"",
     "isWinnerArena":false,
     "isHeart":false,
