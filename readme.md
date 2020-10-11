@@ -1,16 +1,16 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d76bfd46-0fa7-46d1-9414-a5001eab69b5/deploy-status)](https://app.netlify.com/sites/lucid-mccarthy-6d1ec1/deploys)
 # DankLand Website API
-Website using rawgit.org (Cloudflare CDN)
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/tariffs.json```
+```https://dankland.netlify.app/tariffs.json```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/donate.json```
+```https://dankland.netlify.app/donate.json```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/streamers.json```
+```https://dankland.netlify.app/streamers.json```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/rules.json```
+```https://dankland.netlify.app/rules.json```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/events.json```
+```https://dankland.netlify.app/events.json```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/duels.md```
+```https://dankland.netlify.app/duels.md```
 
-```https://ghcdn.rawgit.org/danklandclub/ws-api/master/tournament.md```
+```https://dankland.netlify.app/tournament.md```
