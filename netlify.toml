@@ -4,4 +4,6 @@
     [headers.values]
     Access-Control-Allow-Origin = "*"
 [[redirects]]
-   /assets/emoji/*    https://cdn.frankerfacez.com/94/7f/947f5a8228c906ddfa20589800b19276.png  404
+  from = "/assets/emoji/*"
+  to = "https://cdn.frankerfacez.com/94/7f/947f5a8228c906ddfa20589800b19276.png"
+  status = 301
