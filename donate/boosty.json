@@ -30,7 +30,7 @@
     "urlStream":"",
     "isWinnerArena":false,
     "isHeart":true,
-    "heartColor":"darkaqua",
+    "heartColor":"dark_aqua",
     "doubleSupport":false,
     "platform":"boosty",
     "amount":125
@@ -54,7 +54,7 @@
     "urlStream":"",
     "isWinnerArena":false,
     "isHeart":true,
-    "heartColor":"darkaqua",
+    "heartColor":"dark_aqua",
     "doubleSupport":false,
     "platform":"boosty",
     "amount":125
