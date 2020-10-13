@@ -11,7 +11,8 @@
     "platform":"",
     "amount":""
   },
-  {"username":"Rekford",
+  {
+    "username":"Rekford",
     "head":"Rekford",
     "isStreamer":true,
     "urlStream":"https://twitch.tv/rekford",
