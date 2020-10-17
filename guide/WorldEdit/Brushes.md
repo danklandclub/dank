@@ -1,4 +1,4 @@
-###Другие части гайда по WorldEdit:
+### Другие части гайда по WorldEdit:
 [Основная часть](WorldEdit.md)<br>
 [Типы кисточек](Brushes.md)<br>
 [Паттерны](Pattern.md)<br>
