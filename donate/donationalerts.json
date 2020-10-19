@@ -7,7 +7,7 @@
     "isWinnerArena":false,
     "isHeart":true,
     "heartColor":"light_purple",
-    "doubleSupport":true,
+    "doubleSupport":false,
     "platform":"donationalerts",
     "amount":750
   },

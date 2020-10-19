@@ -72,18 +72,6 @@
     "amount":125
   },
   {
-    "username":"trefis",
-    "head":"trefis",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":true,
-    "heartColor":"light_purple",
-    "doubleSupport":true,
-    "platform":"boosty",
-    "amount":100
-  },
-  {
     "username":"JammyWay",
     "head":"JammyWay",
     "isStreamer":false,
