@@ -33,5 +33,12 @@
     "description":"Отключение рекламы",
     "link_paid":"https://boosty.to/frovolo/purchase/34627",
     "link_promo":"https://boosty.to/frovolo/purchase/34626"
+  },
+  {
+    "forFree":200,
+    "forPaid":250,
+    "description":"Выбор цвета баджика в RGB формате",
+    "link_paid":"https://boosty.to/frovolo/purchase/312366",
+    "link_promo":"https://boosty.to/frovolo/purchase/34628"
   }
 ]
