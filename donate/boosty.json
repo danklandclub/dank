@@ -12,6 +12,18 @@
     "amount":150
   },
   {
+    "username":"BIGZET",
+    "head":"BIGZET_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"darkblue",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":150
+  },
+  {
     "username":"vASSimall",
     "head":"vassimall",
     "isStreamer":false,
