@@ -60,18 +60,6 @@
     "amount":125
   },
   {
-    "username":"Mageus",
-    "head":"Mageus_",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":true,
-    "heartColor":"darkpurple",
-    "doubleSupport":false,
-    "platform":"boosty",
-    "amount":125
-  },
-  {
     "username":"JammyWay",
     "head":"JammyWay",
     "isStreamer":false,
