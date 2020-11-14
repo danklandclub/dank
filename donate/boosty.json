@@ -1,5 +1,17 @@
 [
   {
+    "username":"BIGZET",
+    "head":"BIGZET_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"dark_aqua",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":250
+  },
+  {
     "username":"Gwinsen",
     "head":"Gwinsen",
     "isStreamer":false,
@@ -7,18 +19,6 @@
     "isWinnerArena":false,
     "isHeart":true,
     "heartColor":"white",
-    "doubleSupport":false,
-    "platform":"boosty",
-    "amount":150
-  },
-  {
-    "username":"BIGZET",
-    "head":"BIGZET_",
-    "isStreamer":false,
-    "urlStream":"",
-    "isWinnerArena":false,
-    "isHeart":true,
-    "heartColor":"darkblue",
     "doubleSupport":false,
     "platform":"boosty",
     "amount":150
@@ -66,10 +66,10 @@
     "urlStream":"",
     "isWinnerArena":false,
     "isHeart":true,
-    "heartColor":"yellow",
+    "heartColor":"white",
     "doubleSupport":false,
     "platform":"boosty",
-    "amount":75
+    "amount":125
   },
   {
     "username":"dimver4ik",
