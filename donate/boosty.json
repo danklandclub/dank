@@ -12,6 +12,18 @@
     "amount":250
   },
   {
+    "username":"Pozhilaya_Svekla",
+    "head":"Pozhilaya_Svekla",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"dark_aqua",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":250
+  },
+  {
     "username":"Gwinsen",
     "head":"Gwinsen",
     "isStreamer":false,
@@ -31,6 +43,42 @@
     "isWinnerArena":false,
     "isHeart":true,
     "heartColor":"dark_aqua",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":125
+  },
+  {
+    "username":"ElSuppi",
+    "head":"ElSuppi",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":125
+  },
+  {
+    "username":"BJlaguK",
+    "head":"UrbanAwsomenman",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":125
+  },
+  {
+    "username":"Dandaro",
+    "head":"Dandaro",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
     "doubleSupport":false,
     "platform":"boosty",
     "amount":125
@@ -94,5 +142,89 @@
     "doubleSupport":false,
     "platform":"boosty",
     "amount":75
-  }
+  },
+  {
+    "username":"G3thas",
+    "head":"G3thas",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"JustGalaxy",
+    "head":"_JustGalaxy_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"JustGalaxy",
+    "head":"_JustGalaxy_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"panasomic",
+    "head":"panasomic",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"BOBRONATOR",
+    "head":"_BOBRONATOR_",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"Jevudi",
+    "head":"Jevudi",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
+  {
+    "username":"CoolArt",
+    "head":"CoolArt",
+    "isStreamer":false,
+    "urlStream":"",
+    "isWinnerArena":false,
+    "isHeart":true,
+    "heartColor":"yellow",
+    "doubleSupport":false,
+    "platform":"boosty",
+    "amount":75
+  },
 ]
